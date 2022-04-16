@@ -10,7 +10,11 @@
  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
  ### Challenge Link
- <p><a href="encr.pw/TfLOZ">Front end Mentor Challenge</a></p>
+ <p>
+ <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/web-page-using-display-to-centralize-items-and-media-queries-c- rAHjKkW">
+ Front end Mentor Challenge
+ </a>
+ </p>
  
  
 
