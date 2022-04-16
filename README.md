@@ -11,10 +11,4 @@
  
  ### Challenge Link
  <p>
- <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/web-page-using-display-to-centralize-items-and-media-queries-c- rAHjKkW">
- Front end Mentor Challenge
- </a>
- </p>
- 
- 
-
+ <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">Front end Mentor Challenge</a></p>
