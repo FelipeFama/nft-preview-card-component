@@ -1,8 +1,8 @@
 # nft-preview-card-component
  NFT preview card component challenge solution in frontendmentor.io
- 
- ![nft-preview-card-component](https://user-images.githubusercontent.com/91050670/163659461-a80a6a5d-f34b-4bb6-b43b-b0d369146284.png)
- 
+  
+ ![nft-preview-card-challenge](https://user-images.githubusercontent.com/91050670/186568296-f52efa78-946c-4450-995d-dfb0af9aab69.png)
+
  ## Technologies used
  
  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
